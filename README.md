@@ -70,7 +70,7 @@ cd Design-Devi
 
 ```bash
 cd Server
-npm install
+npm i cors dotenv express express-rate-limit groq-sdk nodemon
 ```
 
 Create a `.env` file in the `Server` directory:
