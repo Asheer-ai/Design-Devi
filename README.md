@@ -62,7 +62,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Asheer-ai/Design-Devi
 cd Design-Devi
 ```
 
